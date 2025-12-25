@@ -1,0 +1,88 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Den forenede Kirke" – proper historical church name; must be rendered consistently and neutrally.
+* "Afsnit" – sectional marker with formal register (Section, not Paragraph).
+* "Samfund" – carries ecclesial/organizational meaning; not merely "society" but church body.
+* "Indremissionskassen" – institutional term tied to Lutheran mission practice.
+* "Hedningemissionsarbeide" – 19th‑century missionary term; must be rendered without modern softening.
+* "Frie Menigheder" – theological-ecclesiological term (free congregations), not generic freedom.
+
+Syntactic Hazards:
+
+* Very long periodic sentences with embedded causal clauses and institutional references.
+* Heavy use of semicolon logic and explanatory apposition.
+* Historical narrative interwoven with doctrinal-ecclesial argumentation.
+
+Theological Hazards:
+
+* Concepts of church unity, schism, mission responsibility, and New Testament ecclesiology.
+* Implicit appeal to apostolic precedent and biblical church order.
+
+Voice Hazards:
+
+* Formal, restrained, historically reflective tone.
+* Avoidance of polemics, yet firm justification of separation and mission responsibility.
+* Academic-sermonic cadence characteristic of late 19th‑century Lutheran prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "tage Vare paa det Arbeide" – idiom meaning to take responsibility for or safeguard a work.
+* "hvilenslignende Støtte" – metaphorical expression indicating minimal or merely nominal support.
+* "laa saaledes for Haanden" – idiom meaning that tasks were clearly present or obvious.
+* "Spiren til nye Splittelser" – organic metaphor (seed/sprout) indicating inherent tendency.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Historical cause: internal disagreement leads to rupture.
+* Practical consequence: minority forced to assume abandoned mission and education work.
+* Institutional decision (1893) restricts mission funds.
+* Resulting injustice toward Augsburg-aligned clergy and congregations.
+* Necessity of independent support structures.
+* Emergence of broader mission responsibility (East Madagascar).
+* Theological-ecclesiological reflection on free cooperation.
+* Introduction of the Lutheran Free Church as an answer.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Implicit appeal to New Testament and apostolic church practice.
+* No direct quotations, but strong ecclesiological resonance (Acts-era cooperation among churches).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sober justification rather than emotional rhetoric.
+* Preserve firmness in describing exclusion and necessity.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "det gjaldt kun om" – expresses necessity and urgency.
+* "blev det nødvendigt" – must remain strong (became necessary).
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Samfund" – consistently rendered as church body or communion.
+* "Menighed" – congregation.
+* "Mission" – mission, without dilution.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Preserve organic metaphors (seed, tasks lying at hand).
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Shift from narrative history to reflective ecclesiology must remain clear.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long sentences and measured pacing suitable for public reading.
+
+STEP 11: FINAL TRANSLATION
+
+First Section.
+
+As is well known, the disagreement within the United Church led to a rupture within that church body, in that the portion thereof which aligned itself with the Augsburg Seminary was partly expelled from the communion and partly found itself compelled, little by little, to withdraw from participation in the affairs of the body, in order to take responsibility for the work of pastoral education and of outward and inward mission which the United Church declined to support. In addition to withdrawing from the Augsburg Seminary even a support that was little more than nominal—and far more decisively through the establishment of a new pastoral school and the development of the Seminary—this church body, at its annual meeting in 1893, adopted the following proposal put forward by Pastor Ole Nilsen: “The Mission Committee should employ mission funds only where it has full reason to believe that the missionary activity is in accord with the church body and not in the service of any party.” (The United Church’s Yearbook, 1893, p. 219.)
+
+This resolution was understood and applied in such a manner that wherever a pastor or congregation, out of conviction, declared itself in sympathy with the Augsburg Seminary and the minority within the body, support from the Inner Mission treasury was denied them. For this reason it became necessary to come to the aid of these pastors and congregations, alongside the effort to gather the funds required for the maintenance of the pastors themselves. Little by little, in the same manner, there also fell to the minority within the United Church—or to the Friends of Augsburg, as it gradually came to be known—the responsibility for a difficult and by no means insignificant heathen missionary work in eastern Madagascar.
+
+The tasks thus lay plainly at hand; what was required was only to take them up. The question became primarily one of the manner in which this should be done. The formation of church bodies had repeatedly shown itself to contain within it the seed of new divisions, and the question asserted itself ever more strongly: cannot free congregations cooperate in the fellowship of the world without heavy, meaningless bonds of organization, and would not such free cooperation among congregations be more in accordance with the New Testament and with the churches of the apostolic age? The Lutheran Free Church is an attempt to give an answer to these questions. It is not the place here to seek to indicate whether, to any degree, it has succeeded in providing a satisfactory answer, nor to recount the many and exceedingly great obstacles that have been placed in the way of the work’s success. With regard to the historical development that led to the formation of the Lutheran Free Church, and to its work during the years of its existence, reference is made to the author’s own brief account thereof in Collected Writings, I, 229–232.
