@@ -67,8 +67,6 @@ These files document the translation methodology and constraints applied through
 
 ---
 
----
-
 ## Disclaimer
 
 This project is an independent scholarly and technical effort and is not affiliated with or endorsed by any church body, academic institution, or organization.
