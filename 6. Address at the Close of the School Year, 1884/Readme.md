@@ -1,6 +1,6 @@
 Georg Sverdrup’s 1884 Augsburg Seminary address on Lutheran education, truth, freedom, and vocation in Norwegian-American church life.
 
-Chapter Summary
+## Chapter Summary
 
 This chapter is an address delivered by Professor Georg Sverdrup at the conclusion of the academic year at Augsburg Seminary in 1884, later published in Taler, Afhandlinger, Indberetninger osv. vedrørende Augsburg Seminarium og den lutherske Frikirke (1910).
 
